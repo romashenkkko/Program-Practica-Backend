@@ -1,0 +1,14 @@
+C:\Users\ASUS\TESTSHARP\bin\Debug\net8.0\TESTSHARP.exe
+C:\Users\ASUS\TESTSHARP\bin\Debug\net8.0\TESTSHARP.deps.json
+C:\Users\ASUS\TESTSHARP\bin\Debug\net8.0\TESTSHARP.runtimeconfig.json
+C:\Users\ASUS\TESTSHARP\bin\Debug\net8.0\TESTSHARP.dll
+C:\Users\ASUS\TESTSHARP\bin\Debug\net8.0\TESTSHARP.pdb
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.AssemblyInfoInputs.cache
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.AssemblyInfo.cs
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.dll
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\refint\TESTSHARP.dll
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.pdb
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\TESTSHARP.genruntimeconfig.cache
+C:\Users\ASUS\TESTSHARP\obj\Debug\net8.0\ref\TESTSHARP.dll
