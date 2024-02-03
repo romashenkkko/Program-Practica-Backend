@@ -58,11 +58,11 @@ namespace MyProjectSharp
                     if(!char.IsLetter(ch))
                     {
                        Console.WriteLine("One of the names contains invalid characters. Please use only letters.");
-                        return false; // Return false if any name contains non-letter characters 
+                        return false; 
                     }
                 }
             }
-            return true; // Return true if all names are valid
+            return true; 
         }
     }
 }
