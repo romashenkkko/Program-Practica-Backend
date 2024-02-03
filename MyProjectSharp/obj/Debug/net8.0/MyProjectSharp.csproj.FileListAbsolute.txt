@@ -1,0 +1,14 @@
+C:\Users\ASUS\MyProjectSharp\bin\Debug\net8.0\MyProjectSharp.exe
+C:\Users\ASUS\MyProjectSharp\bin\Debug\net8.0\MyProjectSharp.deps.json
+C:\Users\ASUS\MyProjectSharp\bin\Debug\net8.0\MyProjectSharp.runtimeconfig.json
+C:\Users\ASUS\MyProjectSharp\bin\Debug\net8.0\MyProjectSharp.dll
+C:\Users\ASUS\MyProjectSharp\bin\Debug\net8.0\MyProjectSharp.pdb
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.AssemblyInfoInputs.cache
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.AssemblyInfo.cs
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.dll
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\refint\MyProjectSharp.dll
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.pdb
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\MyProjectSharp.genruntimeconfig.cache
+C:\Users\ASUS\MyProjectSharp\obj\Debug\net8.0\ref\MyProjectSharp.dll
